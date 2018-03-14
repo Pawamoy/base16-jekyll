@@ -1,0 +1,4 @@
+default:
+    extension: .scss
+    output: jekyll
+
